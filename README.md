@@ -4,7 +4,7 @@
 
 ## [Github Repo](https://github.com/JakobCoding/PortfolioAssignment.git)
 
-## Tech Stack
+## Tech Stack For this Website:
 
 - HTML, CSS & JavaScript
 - Image Editing & Resizing: Adobe Photo Shop , Adopbe Illustrator 
