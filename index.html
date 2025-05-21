@@ -195,40 +195,10 @@
     <div class="copyright">
         <p>&copy; Jake Chalmers <i class="fa-solid fa-paw"></i> 2023</p>
     </div>
-
 </div> 
 
 <!------------javaScript--------------->
-
-<script>
-    var tablinks = document.getElementsByClassName("tab-links");
-    var tabcontents = document.getElementsByClassName("tab-contents");
-
-    function opentab(tabname){
-        for(tablink of tablinks){
-            tablink.classList.remove("active-link");
-        }
-        for(tabcontent of tabcontents){
-            tabcontent.classList.remove("active-tab");
-        }
-        event.currentTarget.classList.add("active-link");
-        document.getElementById(tabname).classList.add("active-tab");
-    }
-</script>
-
-<!----------Side bar menu javascript--------------->
-<!-- enables the side bar mene to open and close the way it does on the site -->
-<script>
-
-var sidemenu = document.getElementById("sidemenu");
-
-function openmenu(){
-    sidemenu.style.right = "0";
-}
-function closemenu(){
-    sidemenu.style.right = "-200px";
-}
-</script>
+<script src="index.js"></script>
 
 </body>
 </html> 
