@@ -2,8 +2,6 @@
 ---
 ## [Portfolio Website](https://stately-choux-1f659b.netlify.app/index.html)
 
-## [Github Repo](https://github.com/JakobCoding/PortfolioAssignment.git)
-
 ## Tech Stack For this Website:
 
 - HTML, CSS & JavaScript
